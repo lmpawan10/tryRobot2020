@@ -1,0 +1,14 @@
+{
+        "cortex-debug.armToolchainPath": "C:\\VSARM\\ARMCC\\bin",
+        "cortex-debug.openocdPath": "C:\\VSARM\\OpenOCD-20200729-0.10.0\\bin\\openocd.exe",
+        "files.associations": {
+                "freertos.h": "c",
+                "cmsis_os.h": "c",
+                "*.tcc": "cpp",
+                "ostream": "cpp",
+                "usart.h": "c",
+                "cstdio": "cpp",
+                "limits": "cpp"
+        },
+        "C_Cpp.errorSquiggles": "Disabled"
+}
